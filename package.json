@@ -1,0 +1,15 @@
+{
+  "name": "quizlet-dupes",
+  "version": "1.0.0",
+  "author": "Evan Hahn",
+  "private": true,
+  "main": "quizlet-dupes.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "coffee-script": "1.6.x",
+    "mocha": "*",
+    "should": "*"
+  }
+}
